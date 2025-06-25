@@ -1,7 +1,9 @@
+<img src='github bannar.jpj'></img>
+
 # 💫 About Me:
 # Hellow I’m Royel, a passionate Full Stack Web Developer from Bangladesh.<br><br># Skilled in: HTML, CSS, JavaScript, React, Node.js, Express, FireBase,Daisyui,Tailwind CSS, MongoDB<br><br> #Tools I use: Tailwind CSS, Firebase, Axios, React Hook Form, JWT<br><br> # I build responsive, secure, and scalable web applications from front to back.<br><br># I enjoy solving real-world problems, writing clean code, and learning new tech.<br><br># I love to collaborate and contribute to open-source or client projects.<br><br># Always learning — currently exploring: Next.js, TypeScript, and REST API security.<br><br># Goal: To grow as a professional developer and work on impactful projects globally.
 
-<img src='Github 232.jpg'></img>
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100085936730814) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Royelali527) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@its.royel527?_r=1&_d=dkee7hc59lf9ag&sec_uid=MS4wLjABAAAAgFGCPOZ-jAvOjZvPk_uhTvvyYw80ofEHUt-jELBu8KpO-VhwLmIgOV0icgCO4_DZ&share_author_id=7355077241959842821&sharer_language=en&source=h5_m&u_code=ede8417c02aidd&timestamp=1750783963&user_id=7355077241959842821&sec_user_id=MS4wLjABAAAAgFGCPOZ-jAvOjZvPk_uhTvvyYw80ofEHUt-jELBu8KpO-VhwLmIgOV0icgCO4_DZ&utm_source=copy&utm_campaign=client_share&utm_medium=android&share_iid=7516510585288083218&share_link_id=435b82bf-fc27-4e38-b47f-8773d22aaa77&share_app_id=1233&ugbiz_name=ACCOUNT&ug_btm=b8727%2Cb7360&social_share_type=5&enable_checksum=1 ) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@ROYEL526) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:webdev.royelali@gmail.com) 
