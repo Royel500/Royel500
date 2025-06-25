@@ -12,7 +12,7 @@
 
 
 <p align="center">
-  <img src="github banner.png" alt="Banner" style="height: 300px; width: 1000px;">
+  <img src="bannar 22.png" alt="Banner" style="height: 300px; width: 1000px;">
 </p>
 
 # 💫 About Me:
