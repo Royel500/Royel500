@@ -1,5 +1,19 @@
-# Hellow I’m Royel Welcome To My GitHub Profile,
-<img src='github banner.png'></img>
+<h1 align="center">
+  <strong>
+    <span style="font-size: 2.5em;">👋 HELLO, I'M ROYEL</span>
+  </strong>
+</h1>
+
+<h3 align="center">
+  <strong>
+    <span style="font-size: 1.8em;">FULL STACK WEB DEVELOPER FROM BANGLADESH</span>
+  </strong>
+</h3>
+
+
+<p align="center">
+  <img src="github banner.png" alt="Banner" style="height: 300px; width: auto;">
+</p>
 
 # 💫 About Me:
 # Hellow I’m Royel, a passionate Full Stack Web Developer from Bangladesh.<br><br># Skilled in: HTML, CSS, JavaScript, React, Node.js, Express, FireBase,Daisyui,Tailwind CSS, MongoDB<br><br> #Tools I use: Tailwind CSS, Firebase, Axios, React Hook Form, JWT<br><br> # I build responsive, secure, and scalable web applications from front to back.<br><br># I enjoy solving real-world problems, writing clean code, and learning new tech.<br><br># I love to collaborate and contribute to open-source or client projects.<br><br># Always learning — currently exploring: Next.js, TypeScript, and REST API security.<br><br># Goal: To grow as a professional developer and work on impactful projects globally.
