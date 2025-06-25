@@ -6,7 +6,7 @@
 
 <h3 align="center">
   <strong>
-    <span style="font-size: 1.8em;">FULL STACK WEB DEVELOPER FROM BANGLADESH</span>
+    <span style="font-size: 1.8em;">🚀 Frontend Developer | JavaScript Enthusiast | Lifelong Learner</span>
   </strong>
 </h3>
 
