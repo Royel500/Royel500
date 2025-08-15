@@ -1,6 +1,7 @@
 <h1 align="center">
-  <strong>
-    <span style="font-size: 2.5em;">👋 HELLO, I'M ROYEL</span>
+  <strong> 👋
+  [![Typing SVG](https://readme-typing-svg.demolab.com?size=35&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=HELLO,+I'M+ROYEL)](https://git.io/typing-svg)
+
   </strong>
 </h1>
 
