@@ -12,7 +12,7 @@
 
 
 <p align="center">
-  <img src="BannarPhoto.png" alt="Banner" style="height: 500px; width: 1000px;">
+  <img src="BannarPhoto.png" alt="Banner" style="height: 450px; width: 1000px;">
 </p>
 
 # 💫 About Me:
