@@ -11,8 +11,16 @@
 
 
 <p align="center">
-  <img src="BannarPhoto.png" alt="Banner" style="height: 450px; width: 1000px;">
+  <picture>
+    <!-- For small devices -->
+    <source media="(max-width: 600px)" srcset="BannerPhoto-small.png">
+    <!-- For large devices -->
+    <source media="(min-width: 601px)" srcset="BannerPhoto-large.png">
+    <!-- Fallback -->
+    <img src="BannerPhoto-large.png" alt="Banner" style="width: 100%; max-width: 1000px; height: auto;">
+  </picture>
 </p>
+
 
 # 💫 About Me:
 # Hellow I’m Royel, a passionate Full Stack Web Developer from Bangladesh.<br><br># Skilled in: HTML, CSS, JavaScript, React, Node.js, Express, FireBase,Daisyui,Tailwind CSS, MongoDB<br><br> #Tools I use: Tailwind CSS, Firebase, Axios, React Hook Form, JWT<br><br> # I build responsive, secure, and scalable web applications from front to back.<br><br># I enjoy solving real-world problems, writing clean code, and learning new tech.<br><br># I love to collaborate and contribute to open-source or client projects.<br><br># Always learning — currently exploring: Next.js, TypeScript, and REST API security.<br><br># Goal: To grow as a professional developer and work on impactful projects globally.
