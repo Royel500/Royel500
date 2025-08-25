@@ -12,12 +12,9 @@
 
 <p align="center">
   <picture>
-    <!-- For small devices -->
-    <source media="(max-width: 600px)" srcset="BannerPhoto.png">
-    <!-- For large devices -->
-    <source media="(min-width: 601px)" srcset="BannerPhoto.png">
-    <!-- Fallback -->
-    <img src="BannerPhoto.png" alt="Banner" style="width: 100%; max-width: 1000px; height: auto;">
+    <source media="(max-width: 600px)" srcset="BannarPhoto.png">
+    <source media="(min-width: 601px)" srcset="BannarPhoto.png">
+    <img src="BannarPhoto.png" alt="Banner" style="width: 100%; max-width: 1000px; height: auto;">
   </picture>
 </p>
 
