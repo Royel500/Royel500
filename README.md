@@ -14,7 +14,7 @@
   <picture>
     <source media="(max-width: 600px)" srcset="BannarPhoto.png">
     <source media="(min-width: 601px)" srcset="BannarPhoto.png">
-    <img src="BannarPhoto.png" alt="Banner" style="width: 100%; max-width: 1000px; height: auto;">
+    <!-- <img src="BannarPhoto.png" alt="Banner" style="width: 100%; max-width: 1000px; height: auto;"> -->
   </picture>
 </p>
 
